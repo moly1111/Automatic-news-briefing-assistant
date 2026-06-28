@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.watch_state.json
+*.pyc
+reports/
+subscribers.txt

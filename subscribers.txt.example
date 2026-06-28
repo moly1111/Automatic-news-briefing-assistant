@@ -1,0 +1,5 @@
+# 订阅列表 — 每天早上9:00自动发送简报
+# 每行一个邮箱地址，# 开头为注释
+# 复制此文件为 subscribers.txt 并填入真实邮箱
+user1@example.com
+user2@example.com
